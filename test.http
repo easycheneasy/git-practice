@@ -1,0 +1,18 @@
+GET http://example.com HTTP/1.1
+
+
+###
+
+GET http://httpbin.org/json HTTP/1.1
+
+###
+
+POST http://httpbin.org/post HTTP/1.1
+x-my-name: easychen
+
+{"arg1": "value1"}
+
+
+
+
+
